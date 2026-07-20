@@ -6,3 +6,15 @@
 - `nslookup <...>` : Tra cứu một máy chủ hoặc tên miền và trả về IP của nó
 - `netstat` : Hiển thị các kết nối mạng và các cổng lắng nghe
   + `netstat -abon` : Đầy đủ hơn
+- `dir` = `ls`
+  + `dir /a` : Hiển thị folder ẩn và hệ thống
+  + `dir /s` : Hiển thị chi tiết các folder có trong các folder hiện tại
+  + `tree` : Hiển thị dạng cây
+- `mkdir` : Tạo thư mục
+- `rmdir` : Xóa thư mục
+- `type` = `cat`
+- `copy <filename1> <filename2>` : Sao chép dữ liệu
+- `move` <filename> <address> : Di chuyển file tới address
+- `del` : Xóa file
+- `tasklist` : Liệt kê các process
+- `taskkill /PID <number PID>` : Kết thúc process
