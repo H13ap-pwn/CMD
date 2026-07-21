@@ -18,3 +18,8 @@
 - `del` : Xóa file
 - `tasklist` : Liệt kê các process
 - `taskkill /PID <number PID>` : Kết thúc process
+
+# PowerShell : 
+- `Get-Command`: Liệt kê lệnh
+- `-CommandType "..."` : Lọc loại lệnh
+- `*` : Thêm khi ko nhớ đủ tên lệnh ( ví dụ Get-* )
